@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kdblib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ilias/kdblib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/ilias/kdblib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
